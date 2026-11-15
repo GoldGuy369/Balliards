@@ -1,0 +1,1394 @@
+fileFormatVersion: 2
+guid: c508a847acb2c3649896d99c84b47778
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5713695330505511628
+    second: Table and Cue Stick_0
+  - first:
+      213: 7877106637329044940
+    second: Table and Cue Stick_1
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Table and Cue Stick_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af237fece03ce347976a9edc192f501
+      internalID: 1893208379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3ad4d219333a94aa8367fcc3c198b7
+      internalID: 7877106637329044940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea23271c8e05d043b62cb5defb7a7c3
+      internalID: -1319978517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfead848577f5142aa1b57ba3cf441f
+      internalID: -388670533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94663be5c53d184ba66d7adac7744fe
+      internalID: -439471418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_8
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8004b00e6f1780b4ca415b87d7080082
+      internalID: -1528427755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474def4e4520ee84c8324188de25bbb1
+      internalID: 2090987247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_14
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1cda84b63c9f548ab9cc6ad7740b6f
+      internalID: -222727409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_15
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1d6358f7a42dd43bc89cc5be48ba44
+      internalID: 559180128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_16
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 296
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312ff7e0c9a9eed48b8f833292af6185
+      internalID: -1489107260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea264d715890ef44ae9d48942e5d76b
+      internalID: 1047052190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d82471e66f59384dbf803f2401e2a0e
+      internalID: -72649596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_24
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f75b11d783a67499932834c8769882
+      internalID: 1611932436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_26
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897b4b36ddd24c0418c645055b5e9d06
+      internalID: -821531952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_27
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bfb35418444634f8b591ec561c583c
+      internalID: 648484507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_32
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd51c4839400e64986af2059bf31c24
+      internalID: -677825057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_33
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e57debf9389954db7d6599b6452b2b
+      internalID: -853710001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_34
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd78ef825234b941ab840d43ea5d4ff
+      internalID: 1522593261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_37
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 232
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24e908a557bb2c458213c444380bf55
+      internalID: -1338012560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_61
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d1234261b62c44c914d9cd3ee3e373
+      internalID: -1496088364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_94
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 179
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f950199b1eca7d44e87f214953f66ca1
+      internalID: 719310552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_115
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 166
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e177dfe432cf646986e15a55919ca6
+      internalID: 1814819462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_132
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d0b789f01612b449ba28e87b0d51b3
+      internalID: 1518585020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_133
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51afd2fe9d22450439139e1ff4fe8ecb
+      internalID: -160922958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_135
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 84
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed3de42f7267ec41a9c5f1461aae6dd
+      internalID: -1530584298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_153
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ad14f58a83491439e065e4f3a28a1b
+      internalID: 1505065215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_154
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b41ea107ae5be843be4f91375f1afe3
+      internalID: -1082290533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_156
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a3928e79d8d2b4cbbdf822ef5d4262
+      internalID: -2049962484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_160
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d020afa3c4147414eb1a48b6a56ddc4a
+      internalID: -1279590411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_161
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caeada4fcb93cc047bd924a2648ae5e5
+      internalID: 1039268749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_162
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4cb9a407dc8ac41bec3683b94cc7e0
+      internalID: 1997023704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_167
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b2db14bf5d83f40ba6b64ba988e92d
+      internalID: -381971269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_168
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38caa568e4acd1b41a20812e2cb2104f
+      internalID: 1550811942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_169
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 52
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f27faa4eb36ad94f8c5818e372e768e
+      internalID: -793744299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_171
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e783bd10cda3044a9a01d08ae1e140
+      internalID: -887417629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_172
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91597c701e0a06941a14cac8b58f62d0
+      internalID: -210238422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_174
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8853b6cd9e82ec4a94af2231c08a9d4
+      internalID: -740614678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_178
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3afe9c7f3601b41a52981e05d9633a
+      internalID: -676708338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_179
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd65823f8220f246808898eeafcbff1
+      internalID: -2067749007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_180
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f8b82bb9f1891489f797a8c31f7c5d
+      internalID: 204606261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_185
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbf253a462277c4fb7d9e2f0ceb296c
+      internalID: 663972757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_186
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a24684906edb8d44b2a79532293f855
+      internalID: 1553135726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_187
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100401713aec60742a7c07bc77c33ba0
+      internalID: 1233215251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 24
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0a6270de508ad43a1d757cb7d6a598
+      internalID: 593343706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 283
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec478f9551443a0478c0ea06599c2a59
+      internalID: 1994842231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 27
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7594779b566a7459e9adf5aa54f669
+      internalID: -2033233275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_10
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 282
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fb20ac9ec2f3741b9ae3a199613943
+      internalID: 14648338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 26
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a6146e20134334ea6ba4ae3a16b804
+      internalID: -60200904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Table and Cue Stick_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 282
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb985cef6e73c14b800acf0a1844098
+      internalID: 320463259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8cbb91a0b8728af43ae3e3a7c7b6a1e9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Table and Cue Stick_0: 1893208379
+      Table and Cue Stick_1: 7877106637329044940
+      Table and Cue Stick_10: 14648338
+      Table and Cue Stick_100: 410640159
+      Table and Cue Stick_101: 1834220831
+      Table and Cue Stick_102: 1361749458
+      Table and Cue Stick_103: 849131062
+      Table and Cue Stick_104: 475800739
+      Table and Cue Stick_105: 840450508
+      Table and Cue Stick_106: -768615208
+      Table and Cue Stick_107: -78571196
+      Table and Cue Stick_108: 1981591348
+      Table and Cue Stick_109: -1779951425
+      Table and Cue Stick_11: -60200904
+      Table and Cue Stick_110: -1275274488
+      Table and Cue Stick_111: 2068358285
+      Table and Cue Stick_112: 1676057583
+      Table and Cue Stick_113: -701967192
+      Table and Cue Stick_114: 1616059718
+      Table and Cue Stick_115: 1814819462
+      Table and Cue Stick_116: -1837276614
+      Table and Cue Stick_117: 1633670977
+      Table and Cue Stick_118: 189555412
+      Table and Cue Stick_119: 76119588
+      Table and Cue Stick_12: 320463259
+      Table and Cue Stick_120: -891828024
+      Table and Cue Stick_121: 1724347633
+      Table and Cue Stick_122: 1223794157
+      Table and Cue Stick_123: -947731019
+      Table and Cue Stick_124: 883494933
+      Table and Cue Stick_125: 2075619967
+      Table and Cue Stick_126: 2018077092
+      Table and Cue Stick_127: 1700357461
+      Table and Cue Stick_128: -1772046397
+      Table and Cue Stick_129: -2091304468
+      Table and Cue Stick_13: 1549055047
+      Table and Cue Stick_130: -669705212
+      Table and Cue Stick_131: -324618487
+      Table and Cue Stick_132: 1518585020
+      Table and Cue Stick_133: -160922958
+      Table and Cue Stick_134: 1779501397
+      Table and Cue Stick_135: -1530584298
+      Table and Cue Stick_136: 2125564295
+      Table and Cue Stick_137: 1662338579
+      Table and Cue Stick_138: -1896125647
+      Table and Cue Stick_139: -1480773480
+      Table and Cue Stick_14: -222727409
+      Table and Cue Stick_140: -762543412
+      Table and Cue Stick_141: -58330279
+      Table and Cue Stick_142: -1965992847
+      Table and Cue Stick_143: 1978494098
+      Table and Cue Stick_144: 991512961
+      Table and Cue Stick_145: -830937977
+      Table and Cue Stick_146: -1712052931
+      Table and Cue Stick_147: 1663330882
+      Table and Cue Stick_148: 287536525
+      Table and Cue Stick_149: 126221839
+      Table and Cue Stick_15: 559180128
+      Table and Cue Stick_150: -1321524202
+      Table and Cue Stick_151: -2064107787
+      Table and Cue Stick_152: 527770701
+      Table and Cue Stick_153: 1505065215
+      Table and Cue Stick_154: -1082290533
+      Table and Cue Stick_155: 1168621826
+      Table and Cue Stick_156: -2049962484
+      Table and Cue Stick_157: -166457425
+      Table and Cue Stick_158: 1228029255
+      Table and Cue Stick_159: -104281110
+      Table and Cue Stick_16: -1489107260
+      Table and Cue Stick_160: -1279590411
+      Table and Cue Stick_161: 1039268749
+      Table and Cue Stick_162: 1997023704
+      Table and Cue Stick_163: 366616214
+      Table and Cue Stick_164: 744970238
+      Table and Cue Stick_165: -644847220
+      Table and Cue Stick_166: 1394930801
+      Table and Cue Stick_167: -381971269
+      Table and Cue Stick_168: 1550811942
+      Table and Cue Stick_169: -793744299
+      Table and Cue Stick_17: -174015195
+      Table and Cue Stick_170: -1050378474
+      Table and Cue Stick_171: -887417629
+      Table and Cue Stick_172: -210238422
+      Table and Cue Stick_173: 212656933
+      Table and Cue Stick_174: -740614678
+      Table and Cue Stick_175: 491523238
+      Table and Cue Stick_176: 1995902880
+      Table and Cue Stick_177: -814017460
+      Table and Cue Stick_178: -676708338
+      Table and Cue Stick_179: -2067749007
+      Table and Cue Stick_18: 1047052190
+      Table and Cue Stick_180: 204606261
+      Table and Cue Stick_181: -892413601
+      Table and Cue Stick_182: 1473157174
+      Table and Cue Stick_183: -976196065
+      Table and Cue Stick_184: 1795988195
+      Table and Cue Stick_185: 663972757
+      Table and Cue Stick_186: 1553135726
+      Table and Cue Stick_187: 1233215251
+      Table and Cue Stick_188: -1854831037
+      Table and Cue Stick_19: -72649596
+      Table and Cue Stick_2: -1319978517
+      Table and Cue Stick_20: 1693768160
+      Table and Cue Stick_21: 1922376016
+      Table and Cue Stick_22: 1809064666
+      Table and Cue Stick_23: -1546896465
+      Table and Cue Stick_24: 1611932436
+      Table and Cue Stick_25: 1941462019
+      Table and Cue Stick_26: -821531952
+      Table and Cue Stick_27: 648484507
+      Table and Cue Stick_28: -304027552
+      Table and Cue Stick_29: 777688307
+      Table and Cue Stick_3: -388670533
+      Table and Cue Stick_30: -1578257806
+      Table and Cue Stick_31: 2095777590
+      Table and Cue Stick_32: -677825057
+      Table and Cue Stick_33: -853710001
+      Table and Cue Stick_34: 1522593261
+      Table and Cue Stick_35: 2015238290
+      Table and Cue Stick_36: -980219945
+      Table and Cue Stick_37: -1338012560
+      Table and Cue Stick_38: 1411834578
+      Table and Cue Stick_39: -459150581
+      Table and Cue Stick_4: 593343706
+      Table and Cue Stick_40: -1053019513
+      Table and Cue Stick_41: -682956500
+      Table and Cue Stick_42: -1102897942
+      Table and Cue Stick_43: 1034400593
+      Table and Cue Stick_44: 809319082
+      Table and Cue Stick_45: 2001150211
+      Table and Cue Stick_46: -488606028
+      Table and Cue Stick_47: 995041210
+      Table and Cue Stick_48: -794117593
+      Table and Cue Stick_49: -781201899
+      Table and Cue Stick_5: 1994842231
+      Table and Cue Stick_50: 1893273984
+      Table and Cue Stick_51: -796706955
+      Table and Cue Stick_52: -1192801182
+      Table and Cue Stick_53: -623062916
+      Table and Cue Stick_54: 499068546
+      Table and Cue Stick_55: 2045997230
+      Table and Cue Stick_56: -1194777981
+      Table and Cue Stick_57: -1160267753
+      Table and Cue Stick_58: -148969872
+      Table and Cue Stick_59: -550990975
+      Table and Cue Stick_6: -439471418
+      Table and Cue Stick_60: -1837419721
+      Table and Cue Stick_61: -1496088364
+      Table and Cue Stick_62: -373210763
+      Table and Cue Stick_63: -992456337
+      Table and Cue Stick_64: 1157457291
+      Table and Cue Stick_65: -1302934748
+      Table and Cue Stick_66: 1006973941
+      Table and Cue Stick_67: -1998461254
+      Table and Cue Stick_68: 941286262
+      Table and Cue Stick_69: -474322906
+      Table and Cue Stick_7: -2033233275
+      Table and Cue Stick_70: 812800115
+      Table and Cue Stick_71: 1876686711
+      Table and Cue Stick_72: -1691054447
+      Table and Cue Stick_73: 620173233
+      Table and Cue Stick_74: -1389074816
+      Table and Cue Stick_75: -15509276
+      Table and Cue Stick_76: 250246976
+      Table and Cue Stick_77: -809188794
+      Table and Cue Stick_78: -906973814
+      Table and Cue Stick_79: -231293055
+      Table and Cue Stick_8: -1528427755
+      Table and Cue Stick_80: 1248939403
+      Table and Cue Stick_81: 725670800
+      Table and Cue Stick_82: 1598976147
+      Table and Cue Stick_83: -1533789118
+      Table and Cue Stick_84: -1957237188
+      Table and Cue Stick_85: 1545710205
+      Table and Cue Stick_86: -1843367180
+      Table and Cue Stick_87: 2137915447
+      Table and Cue Stick_88: -498490394
+      Table and Cue Stick_89: 1295645059
+      Table and Cue Stick_9: 2090987247
+      Table and Cue Stick_90: 672342576
+      Table and Cue Stick_91: -826888613
+      Table and Cue Stick_92: -1357353968
+      Table and Cue Stick_93: -1574241516
+      Table and Cue Stick_94: 719310552
+      Table and Cue Stick_95: -706945596
+      Table and Cue Stick_96: 723470383
+      Table and Cue Stick_97: -572022369
+      Table and Cue Stick_98: 293703491
+      Table and Cue Stick_99: -1563245243
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
